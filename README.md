@@ -19,7 +19,7 @@ This project is fully integrated with [WebdriverIO](http://webdriver.io/) and su
 
 ## Installation
 
-1. Running `git clone https://github.com/lutfiyem/vouchercodes.git`
+1. Running `git clone https://github.com/lutfiyem/vcodes.git`
 2. Running `npm install`
 
 # How to write a test
