@@ -1,4 +1,4 @@
-VoucherCodes Test Automation
+VCodes Test Automation
 ====================
 
 This project is fully integrated with [WebdriverIO](http://webdriver.io/) and supports Page Object Model Design Pattern. This repository contains automation script using the Cucumber (v6.x) BDD framework. It uses the chromedriver NPM package that wraps the ChromeDriver for you. This service does not require a Selenium server, but uses ChromeDriver to communicate with the browser directly.
